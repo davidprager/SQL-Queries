@@ -19,9 +19,9 @@
 -- Table structure for table `assignment`
 --
 
-create database united_helpers
+create database united_helpers;
 
-use united_helpers
+use united_helpers;
 
 DROP TABLE IF EXISTS `assignment`;
 /*!40101 SET @saved_cs_client     = @@character_set_client */;
